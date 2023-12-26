@@ -31,6 +31,4 @@ public class Recipe {
     private String category;
     @JsonProperty("Cuisine")
     private String cuisine;
-    @JsonProperty("caloric")
-    private String calorie;
 }
